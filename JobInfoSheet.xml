@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JobSpec xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="JobInfoSheet.xsd" ElementXPath="/JobSpec[1]">
+    <NameAndSurname ElementXPath="/JobSpec[1]/NameAndSurname[1]"></NameAndSurname>
+    <RequestTown ElementXPath="/JobSpec[1]/RequestTown[1]"></RequestTown>
+    <RequestDate ElementXPath="/JobSpec[1]/RequestDate[1]"></RequestDate>
+    <DepartmentName ElementXPath="/JobSpec[1]/DepartmentName[1]"></DepartmentName>
+    <RequestedBeginDate ElementXPath="/JobSpec[1]/RequestedBeginDate[1]"></RequestedBeginDate>
+    <RequestedFinalDate ElementXPath="/JobSpec[1]/RequestedFinalDate[1]"></RequestedFinalDate>
+    <Year ElementXPath="/JobSpec[1]/Year[1]"></Year>
+    <HolidayType ElementXPath="/JobSpec[1]/HolidayType[1]"></HolidayType>
+    <Activator ElementXPath="/JobSpec[1]/Activator[1]"></Activator>
+</JobSpec>
